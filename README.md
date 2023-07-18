@@ -1,3 +1,9 @@
+### Repository projects:
+| # | Project | Description |
+| | ------- | ----------- |
+| 1 | Regression price predictor | Linear regression model to predict future BTC price based on a range of indicators (source: blockchain.com) | 
+
+
 ### Course content:
 1. Blockchain machine learning
     - Blockchain and machine learning fundamentals
@@ -21,3 +27,5 @@
 
 ### Resources
 https://colab.research.google.com
+
+
